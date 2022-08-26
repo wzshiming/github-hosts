@@ -1,13 +1,16 @@
-# Last Update: 2022-08-24T01:19:20+0000
+# Last Update: 2022-08-26T01:18:10+0000
 # Source: https://github.com/wzshiming/github-hosts
 
+140.82.112.21 central.github.com
 140.82.112.22 central.github.com
-140.82.112.25 live.github.com
-140.82.113.17 github.community
-140.82.113.22 central.github.com
+140.82.112.25 alive.github.com live.github.com
+140.82.112.26 alive.github.com
+140.82.113.18 github.community
 140.82.113.25 alive.github.com live.github.com
+140.82.113.26 live.github.com
 140.82.114.22 central.github.com
 140.82.114.25 alive.github.com live.github.com
+140.82.114.26 alive.github.com live.github.com
 151.101.1.194 github.global.ssl.fastly.net
 151.101.129.194 github.global.ssl.fastly.net
 151.101.193.194 github.global.ssl.fastly.net
@@ -28,7 +31,7 @@
 192.30.255.112 gist.github.com github.com
 192.30.255.113 gist.github.com github.com
 192.30.255.116 api.github.com
-192.30.255.120 codeload.github.com
+192.30.255.117 api.github.com
 192.30.255.121 codeload.github.com
 192.30.255.164 ghcr.io
 192.30.255.165 ghcr.io
@@ -36,9 +39,16 @@
 2606:50c0:8001::153 assets-cdn.github.com *.github.com *.github.io
 2606:50c0:8002::153 assets-cdn.github.com *.github.com *.github.io
 2606:50c0:8003::153 assets-cdn.github.com *.github.com *.github.io
-52.216.161.11 github-cloud.s3.amazonaws.com github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
-52.216.65.32 github-cloud.s3.amazonaws.com github-com.s3.amazonaws.com
-52.217.137.193 github-cloud.s3.amazonaws.com github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
-52.217.14.28 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
-52.217.173.33 github-cloud.s3.amazonaws.com github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.65.180 github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
+52.216.109.251 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.139.43 github-cloud.s3.amazonaws.com github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.230.59 github-production-user-asset-6210df.s3.amazonaws.com
+52.216.233.43 github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
+52.217.140.233 github-cloud.s3.amazonaws.com
+52.217.198.89 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
+52.217.199.161 github-cloud.s3.amazonaws.com
+52.217.206.17 github-cloud.s3.amazonaws.com
+52.217.226.145 github-cloud.s3.amazonaws.com github-com.s3.amazonaws.com
+52.217.85.4 github-cloud.s3.amazonaws.com github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
+54.231.129.89 github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
+54.231.193.201 github-cloud.s3.amazonaws.com github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
+54.231.198.177 github-cloud.s3.amazonaws.com github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
