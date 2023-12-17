@@ -1,40 +1,42 @@
-# Last Update: 2023-12-16T00:10:26+0000
+# Last Update: 2023-12-17T00:11:25+0000
 # Source: https://github.com/wzshiming/github-hosts
 
+140.82.112.18 github.community
+140.82.112.21 central.github.com
 140.82.112.22 central.github.com
 140.82.112.25 alive.github.com live.github.com
 140.82.112.26 alive.github.com live.github.com
-140.82.112.3 gist.github.com github.com
+140.82.112.3 gist.github.com
 140.82.112.33 ghcr.io
-140.82.112.4 gist.github.com
+140.82.112.34 ghcr.io
+140.82.112.4 gist.github.com github.com
 140.82.112.5 api.github.com
-140.82.112.9 codeload.github.com
+140.82.112.6 api.github.com
 140.82.113.10 codeload.github.com
-140.82.113.18 github.community
 140.82.113.21 central.github.com
-140.82.113.22 central.github.com
-140.82.113.25 alive.github.com live.github.com
+140.82.113.25 live.github.com
+140.82.113.26 alive.github.com live.github.com
 140.82.113.3 github.com
-140.82.113.34 ghcr.io
+140.82.113.33 ghcr.io
 140.82.113.4 gist.github.com github.com
+140.82.113.5 api.github.com
 140.82.113.6 api.github.com
-140.82.114.10 codeload.github.com
-140.82.114.18 github.community
-140.82.114.21 central.github.com
+140.82.113.9 codeload.github.com
 140.82.114.22 central.github.com
-140.82.114.25 alive.github.com live.github.com
-140.82.114.26 live.github.com
-140.82.114.3 gist.github.com github.com
+140.82.114.26 alive.github.com live.github.com
+140.82.114.3 gist.github.com
 140.82.114.34 ghcr.io
-140.82.114.4 github.com
-140.82.114.5 api.github.com
+140.82.114.4 gist.github.com github.com
 140.82.114.6 api.github.com
 140.82.114.9 codeload.github.com
 151.101.1.194 github.global.ssl.fastly.net
 151.101.129.194 github.global.ssl.fastly.net
 151.101.193.194 github.global.ssl.fastly.net
 151.101.65.194 github.global.ssl.fastly.net
-16.182.67.225 github-production-user-asset-6210df.s3.amazonaws.com
+16.182.100.241 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.106.201 github-cloud.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.35.161 github-cloud.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.38.17 github-cloud.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com
 185.199.108.133 github.map.fastly.net *.githubusercontent.com
 185.199.108.153 assets-cdn.github.com github.io githubstatus.com *.github.com *.github.io
 185.199.108.154 github.githubassets.com
@@ -52,26 +54,30 @@
 2606:50c0:8001::153 assets-cdn.github.com *.github.com *.github.io
 2606:50c0:8002::153 assets-cdn.github.com *.github.com *.github.io
 2606:50c0:8003::153 assets-cdn.github.com *.github.com *.github.io
-3.5.0.204 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.17.167 github-production-user-asset-6210df.s3.amazonaws.com
-3.5.25.188 github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.25.21 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.27.168 github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.29.142 github-production-user-asset-6210df.s3.amazonaws.com
-3.5.6.112 github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.114.195 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.160.83 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.211.65 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.251.76 github-production-user-asset-6210df.s3.amazonaws.com
-52.216.60.153 github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.101.236 github-production-user-asset-6210df.s3.amazonaws.com
-52.217.122.177 github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.131.73 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.171.233 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.173.137 github-com.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.229.81 github-production-user-asset-6210df.s3.amazonaws.com
-54.231.138.201 github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.168.1 github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.200.201 github-production-user-asset-6210df.s3.amazonaws.com
-54.231.204.97 github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.235.161 github-production-user-asset-6210df.s3.amazonaws.com
+3.5.1.121 github-production-user-asset-6210df.s3.amazonaws.com
+3.5.20.136 github-com.s3.amazonaws.com
+3.5.27.123 github-com.s3.amazonaws.com
+3.5.28.191 github-com.s3.amazonaws.com
+3.5.29.200 github-cloud.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.29.225 github-cloud.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.114.27 github-production-user-asset-6210df.s3.amazonaws.com
+52.216.12.4 github-com.s3.amazonaws.com
+52.216.134.91 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.146.131 github-com.s3.amazonaws.com
+52.216.186.35 github-cloud.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.27.172 github-com.s3.amazonaws.com
+52.217.102.52 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.119.73 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.16.68 github-cloud.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.165.97 github-com.s3.amazonaws.com
+52.217.173.201 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.196.129 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.201.145 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.224.161 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.230.89 github-cloud.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.70.180 github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.128.73 github-production-user-asset-6210df.s3.amazonaws.com
+54.231.138.193 github-production-user-asset-6210df.s3.amazonaws.com
+54.231.162.129 github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.194.209 github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.227.89 github-com.s3.amazonaws.com
